@@ -58,6 +58,7 @@ https://forum.manjaro.org/t/need-help-connecting-to-openvpn-server-from-manjaro/
 
 kvm
 https://thiscute.world/posts/qemu-kvm-usage/#1-%E5%AF%BC%E5%85%A5-vmware-%E9%95%9C%E5%83%8F
+http://www.361way.com/chage-virbr0-network/5747.html
 gnome插件 https://wiki.gnome.org/Apps/Boxes
 https://www.linux-kvm.org/page/Management_Tools
 # pacman -S qemu libvirt ovmf virt-manager
@@ -173,3 +174,7 @@ https://wiki.archlinux.org/title/Localization/Chinese
 https://wiki.archlinux.org/title/fonts
 ## 优化磁盘
 
+## tty汉化
+
+
+kvm优化
